@@ -1,0 +1,5 @@
+The following code is from: Roelofs, A. (2022). A neurocognitive computational account of 
+word production, comprehension, and repetition in primary progressive 
+aphasia. Brain and Language, 227, 105094.
+
+Source code found at https://osf.io/7gwdq/

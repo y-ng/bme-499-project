@@ -1,0 +1,232 @@
+Assessment is Savage et al. (2013), English
+ 
+NORMAL 
+
+Savage et al. (2013), English
+        Naming   Comprehension  Repetition 
+Real:   88.70         97.00        99.70 
+Lesion:                                    MAE
+Best fit weight value = 0.00   MAE = 4.87
+Sim:   100.00         100.00        100.00 
+ 
+NONFLUENT/AGRAMMATIC 
+
+Savage et al. (2013), English
+        Naming   Comprehension  Repetition 
+Real:   78.30         94.30        79.70 
+Lesion:                                    MAE
+Best fit weight value = 0.91   MAE = 0.77
+Sim:   78.17         93.68        78.13 
+ 
+SEMANTIC DEMENTIA  
+
+Savage et al. (2013), English
+        Naming   Comprehension  Repetition 
+Real:   22.70         63.30        95.30 
+Lesion:                                    MAE
+Best fit weight value = 0.58   MAE = 5.41
+Sim:   10.70         63.42        99.40 
+ 
+LOGOPENIC  
+
+Savage et al. (2013), English
+        Naming   Comprehension  Repetition 
+Real:   41.30         84.70        84.70 
+Lesion:                                    MAE
+Best fit weight value = 0.74   MAE = 9.20
+Sim:   47.29         84.48        63.29 
+
+
+Assessment is Janssen et al. (2022), Dutch
+ 
+NORMAL 
+
+Assessment is Janssen et al. (2022), Dutch
+        Naming   Comprehension  Repetition 
+Real:   90.30         96.30        96.70 
+Lesion:                                    MAE
+Best fit weight value = 0.00   MAE = 5.57
+Sim:   100.00         100.00        100.00 
+ 
+NONFLUENT/AGRAMMATIC 
+
+Assessment is Janssen et al. (2022), Dutch
+        Naming   Comprehension  Repetition 
+Real:   77.30         97.70        89.30 
+Lesion:                                    MAE
+Best fit weight value = 0.95   MAE = 4.47
+Sim:   87.31         96.32        87.28 
+ 
+SEMANTIC DEMENTIA  
+
+Assessment is Janssen et al. (2022), Dutch
+        Naming   Comprehension  Repetition 
+Real:   29.00         78.00        96.30 
+Lesion:                                    MAE
+Best fit weight value = 0.84   MAE = 3.95
+Sim:   28.92         86.56        99.50 
+ 
+LOGOPENIC  
+
+Assessment is Janssen et al. (2022), Dutch
+        Naming   Comprehension  Repetition 
+Real:   66.30         93.70        91.30 
+Lesion:                                    MAE
+Best fit weight value = 0.86   MAE = 5.91
+Sim:   67.78         90.36        78.40 
+
+
+Assessment is Brambati et al. (2015), baseline T1
+ 
+NORMAL 
+
+Assessment is Brambati et al. (2015), baseline T1
+        Naming   Comprehension  Repetition 
+Real:   90.30         96.30        96.70 
+Lesion:                                    MAE
+Best fit weight value = 0.00   MAE = 5.57
+Sim:   100.00         100.00        100.00 
+ 
+NONFLUENT/AGRAMMATIC 
+
+Assessment is Brambati et al. (2015), baseline T1
+        Naming   Comprehension  Repetition 
+Real:   85.30         99.70        83.70 
+Lesion:                                    MAE
+Best fit weight value = 0.94   MAE = 1.88
+Sim:   84.95         95.63        84.92 
+ 
+SEMANTIC DEMENTIA  
+
+Assessment is Brambati et al. (2015), baseline T1
+        Naming   Comprehension  Repetition 
+Real:   26.70         88.00        90.60 
+Lesion:                                    MAE
+Best fit weight value = 0.83   MAE = 4.01
+Sim:   27.55         85.70        99.49 
+ 
+LOGOPENIC  
+
+Assessment is Brambati et al. (2015), baseline T1
+        Naming   Comprehension  Repetition 
+Real:   69.30         95.00        69.00 
+Lesion:                                    MAE
+Best fit weight value = 0.87   MAE = 5.10
+Sim:   69.75         90.93        79.78 
+
+
+Assessment is Brambati et al. (2015), follow up T2
+ 
+NORMAL 
+
+Assessment is Brambati et al. (2015), follow up T2
+        Naming   Comprehension  Repetition 
+Real:   90.30         96.30        96.70 
+Lesion:                                    MAE
+Best fit weight value = 0.00   MAE = 5.57
+Sim:   100.00         100.00        100.00 
+ 
+NONFLUENT/AGRAMMATIC 
+
+Assessment is Brambati et al. (2015), follow up T2
+        Naming   Comprehension  Repetition 
+Real:   83.30         94.80        68.00 
+Lesion:                                    MAE
+Best fit weight value = 0.93   MAE = 5.14
+Sim:   82.64         94.97        82.60 
+ 
+SEMANTIC DEMENTIA  
+
+Assessment is Brambati et al. (2015), follow up T2
+        Naming   Comprehension  Repetition 
+Real:   19.30         66.70        82.30 
+Lesion:                                    MAE
+Best fit weight value = 0.62   MAE = 8.19
+Sim:   12.24         67.12        99.41 
+ 
+LOGOPENIC  
+
+Assessment is Brambati et al. (2015), follow up T2
+        Naming   Comprehension  Repetition 
+Real:   52.70         95.00        58.80 
+Lesion:                                    MAE
+Best fit weight value = 0.77   MAE = 6.02
+Sim:   51.90         85.79        66.84 
+
+
+Assessment is Rohrer et al. (2013) and Mandelli et al. (2016), baseline T1
+ 
+NORMAL 
+
+Assessment is Rohrer et al. (2013) and Mandelli et al. (2016), baseline T1
+        Naming   Comprehension  Repetition 
+Real:   90.30         96.30        96.70 
+Lesion:                                    MAE
+Best fit weight value = 0.00   MAE = 5.57
+Sim:   100.00         100.00        100.00 
+ 
+NONFLUENT/AGRAMMATIC 
+
+Assessment is Rohrer et al. (2013) and Mandelli et al. (2016), baseline T1
+        Naming   Comprehension  Repetition 
+Real:   76.70         99.00        81.50 
+Lesion:                                    MAE
+Best fit weight value = 0.92   MAE = 3.17
+Sim:   80.38         94.32        80.34 
+ 
+SEMANTIC DEMENTIA  
+
+Assessment is Rohrer et al. (2013) and Mandelli et al. (2016), baseline T1
+        Naming   Comprehension  Repetition 
+Real:   26.70         88.00        90.60 
+Lesion:                                    MAE
+Best fit weight value = 0.83   MAE = 4.01
+Sim:   27.55         85.70        99.49 
+ 
+LOGOPENIC  
+
+Assessment is Rohrer et al. (2013) and Mandelli et al. (2016), baseline T1
+        Naming   Comprehension  Repetition 
+Real:   61.00         94.00        94.00 
+Lesion:                                    MAE
+Best fit weight value = 0.85   MAE = 8.67
+Sim:   65.85         89.80        77.04 
+
+
+Assessment is Rohrer et al. (2013) and Mandelli et al. (2016), follow up T2
+ 
+NORMAL 
+
+Assessment is Rohrer et al. (2013) and Mandelli et al. (2016), follow up T2
+        Naming   Comprehension  Repetition 
+Real:   90.30         96.30        96.70 
+Lesion:                                    MAE
+Best fit weight value = 0.00   MAE = 5.57
+Sim:   100.00         100.00        100.00 
+ 
+NONFLUENT/AGRAMMATIC 
+
+Assessment is Rohrer et al. (2013) and Mandelli et al. (2016), follow up T2
+        Naming   Comprehension  Repetition 
+Real:   66.00         90.00        65.50 
+Lesion:                                    MAE
+Best fit weight value = 0.85   MAE = 0.21
+Sim:   65.93         90.18        65.88 
+ 
+SEMANTIC DEMENTIA  
+
+Assessment is Rohrer et al. (2013) and Mandelli et al. (2016), follow up T2
+        Naming   Comprehension  Repetition 
+Real:   26.70         88.00        90.60 
+Lesion:                                    MAE
+Best fit weight value = 0.83   MAE = 4.01
+Sim:   27.55         85.70        99.49 
+ 
+LOGOPENIC  
+
+Assessment is Rohrer et al. (2013) and Mandelli et al. (2016), follow up T2
+        Naming   Comprehension  Repetition 
+Real:   43.00         85.00        77.00 
+Lesion:                                    MAE
+Best fit weight value = 0.75   MAE = 6.14
+Sim:   48.79         84.91        64.46 
